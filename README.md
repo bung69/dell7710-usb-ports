@@ -1,6 +1,6 @@
 # Dell 7710 usb ports
 
-
+````
 Left                Right
 USB 1/ 2            usb3    |   usb 1/2
 1-1                 2-3     |    1-2
@@ -10,3 +10,4 @@ USB 1/ 2            usb3    |   usb 1/2
 
 webcam =  1-11
 ??     = 1-6
+````
